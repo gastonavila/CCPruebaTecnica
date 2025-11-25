@@ -1,0 +1,530 @@
+{
+  "pacientes": [
+    {
+      "id": 1,
+      "dni": "30111221",
+      "nombre": "Juan",
+      "apellido": "Perez",
+      "fechaNacimiento": "1985-06-20"
+    },
+    {
+      "id": 2,
+      "dni": "30111222",
+      "nombre": "Ana",
+      "apellido": "Gomez",
+      "fechaNacimiento": "1992-03-14"
+    },
+    {
+      "id": 3,
+      "dni": "30111223",
+      "nombre": "Luis",
+      "apellido": "Torres",
+      "fechaNacimiento": "1978-11-02"
+    },
+    {
+      "id": 4,
+      "dni": "30111224",
+      "nombre": "Mar�a",
+      "apellido": "L�pez",
+      "fechaNacimiento": "1995-01-15"
+    },
+    {
+      "id": 5,
+      "dni": "30111225",
+      "nombre": "Sofia",
+      "apellido": "Martinez",
+      "fechaNacimiento": "1988-09-27"
+    },
+    {
+      "id": 6,
+      "dni": "30111226",
+      "nombre": "Diego",
+      "apellido": "Fernandez",
+      "fechaNacimiento": "1975-04-11"
+    },
+    {
+      "id": 7,
+      "dni": "30111227",
+      "nombre": "Carolina",
+      "apellido": "Ramirez",
+      "fechaNacimiento": "1983-12-03"
+    },
+    {
+      "id": 8,
+      "dni": "30111228",
+      "nombre": "Tomas",
+      "apellido": "Sanchez",
+      "fechaNacimiento": "1998-08-08"
+    },
+    {
+      "id": 9,
+      "dni": "30111229",
+      "nombre": "Lucia",
+      "apellido": "Herrera",
+      "fechaNacimiento": "1980-05-17"
+    },
+    {
+      "id": 10,
+      "dni": "30111230",
+      "nombre": "Hugo",
+      "apellido": "Dominguez",
+      "fechaNacimiento": "1972-10-30"
+    },
+    {
+      "id": 11,
+      "dni": "30111231",
+      "nombre": "Paula",
+      "apellido": "Silva",
+      "fechaNacimiento": "1991-07-19"
+    },
+    {
+      "id": 12,
+      "dni": "30111232",
+      "nombre": "Bruno",
+      "apellido": "Castro",
+      "fechaNacimiento": "1984-02-25"
+    },
+    {
+      "id": 13,
+      "dni": "30111233",
+      "nombre": "Clara",
+      "apellido": "Alvarez",
+      "fechaNacimiento": "1979-04-15"
+    },
+    {
+      "id": 14,
+      "dni": "30111234",
+      "nombre": "Nicolas",
+      "apellido": "Ibanez",
+      "fechaNacimiento": "1987-09-09"
+    },
+    {
+      "id": 15,
+      "dni": "30111235",
+      "nombre": "Valeria",
+      "apellido": "Cruz",
+      "fechaNacimiento": "1990-12-22"
+    },
+    {
+      "id": 16,
+      "dni": "30111236",
+      "nombre": "Maximiliano",
+      "apellido": "Rojas",
+      "fechaNacimiento": "1974-06-01"
+    },
+    {
+      "id": 17,
+      "dni": "30111237",
+      "nombre": "Alicia",
+      "apellido": "Vega",
+      "fechaNacimiento": "1982-03-07"
+    },
+    {
+      "id": 18,
+      "dni": "30111238",
+      "nombre": "Gabriel",
+      "apellido": "Montoya",
+      "fechaNacimiento": "1977-11-12"
+    },
+    {
+      "id": 19,
+      "dni": "30111239",
+      "nombre": "Julia",
+      "apellido": "Campos",
+      "fechaNacimiento": "1996-04-04"
+    },
+    {
+      "id": 20,
+      "dni": "30111240",
+      "nombre": "Esteban",
+      "apellido": "Figueroa",
+      "fechaNacimiento": "1981-01-28"
+    }
+  ],
+  "medicos": [
+    {
+      "id": 1,
+      "nombre": "Dr. Alejandro Ruiz",
+      "matricula": "230000001001"
+    },
+    {
+      "id": 2,
+      "nombre": "Dra. Luciana Torres",
+      "matricula": "230000001002"
+    },
+    {
+      "id": 3,
+      "nombre": "Dr. Martin Alvarez",
+      "matricula": "230000001003"
+    },
+    {
+      "id": 4,
+      "nombre": "Dra. Florencia Diaz",
+      "matricula": "230000001004"
+    },
+    {
+      "id": 5,
+      "nombre": "Dr. Ramiro Acosta",
+      "matricula": "230000001005"
+    },
+    {
+      "id": 6,
+      "nombre": "Dra. Laura Gimenez",
+      "matricula": "230000001006"
+    },
+    {
+      "id": 7,
+      "nombre": "Dr. Javier Ramos",
+      "matricula": "230000001007"
+    },
+    {
+      "id": 8,
+      "nombre": "Dra. Mariela Bravo",
+      "matricula": "230000001008"
+    },
+    {
+      "id": 9,
+      "nombre": "Dr. Federico Quiroga",
+      "matricula": "230000001009"
+    },
+    {
+      "id": 10,
+      "nombre": "Dra. Romina Lozano",
+      "matricula": "230000001010"
+    },
+    {
+      "id": 11,
+      "nombre": "Dr. Facundo Caceres",
+      "matricula": "230000001011"
+    },
+    {
+      "id": 12,
+      "nombre": "Dra. Jimena Varela",
+      "matricula": "230000001012"
+    },
+    {
+      "id": 13,
+      "nombre": "Dr. Pablo Castillo",
+      "matricula": "230000001013"
+    },
+    {
+      "id": 14,
+      "nombre": "Dra. Maria Sol Funes",
+      "matricula": "230000001014"
+    },
+    {
+      "id": 15,
+      "nombre": "Dr. Hernan Duarte",
+      "matricula": "230000001015"
+    },
+    {
+      "id": 16,
+      "nombre": "Dra. Lara Ferrero",
+      "matricula": "230000001016"
+    },
+    {
+      "id": 17,
+      "nombre": "Dr. Franco Medina",
+      "matricula": "230000001017"
+    },
+    {
+      "id": 18,
+      "nombre": "Dra. Carla Paredes",
+      "matricula": "230000001018"
+    },
+    {
+      "id": 19,
+      "nombre": "Dr. Andres Aguilar",
+      "matricula": "230000001019"
+    },
+    {
+      "id": 20,
+      "nombre": "Dra. Julieta Rey",
+      "matricula": "230000001020"
+    }
+  ],
+  "prestadores": [
+    {
+      "id": 1,
+      "nombre": "Sanatorio Central",
+      "tipo": "Clinica"
+    },
+    {
+      "id": 2,
+      "nombre": "Laboratorio Vital",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": 3,
+      "nombre": "Clinica San Martin",
+      "tipo": "Clinica"
+    },
+    {
+      "id": 4,
+      "nombre": "Diagnostico Norte",
+      "tipo": "Centro Diagn�stico"
+    },
+    {
+      "id": 5,
+      "nombre": "Imagenes del Sur",
+      "tipo": "Centro Diagn�stico"
+    },
+    {
+      "id": 6,
+      "nombre": "Hospital Belgrano",
+      "tipo": "Hospital"
+    },
+    {
+      "id": 7,
+      "nombre": "Radiologia Integral",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": 8,
+      "nombre": "Centro M�dico Oeste",
+      "tipo": "Clinica"
+    },
+    {
+      "id": 9,
+      "nombre": "Laboratorio BioMax",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": 10,
+      "nombre": "Clinica del Sol",
+      "tipo": "Clinica"
+    },
+    {
+      "id": 11,
+      "nombre": "Hospital del Norte",
+      "tipo": "Hospital"
+    },
+    {
+      "id": 12,
+      "nombre": "Imagen Plus",
+      "tipo": "Centro Diagn�stico"
+    },
+    {
+      "id": 13,
+      "nombre": "Laboratorio Alfa",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": 14,
+      "nombre": "Sanatorio Palmeras",
+      "tipo": "Clinica"
+    },
+    {
+      "id": 15,
+      "nombre": "Diagnostico Exacto",
+      "tipo": "Centro Diagn�stico"
+    },
+    {
+      "id": 16,
+      "nombre": "Laboratorio Sigma",
+      "tipo": "Laboratorio"
+    },
+    {
+      "id": 17,
+      "nombre": "Hospital Sur Argentino",
+      "tipo": "Hospital"
+    },
+    {
+      "id": 18,
+      "nombre": "Clinica Avellaneda",
+      "tipo": "Clinica"
+    },
+    {
+      "id": 19,
+      "nombre": "Imagenes del Norte",
+      "tipo": "Centro Diagn�stico"
+    },
+    {
+      "id": 20,
+      "nombre": "Laboratorio Beta",
+      "tipo": "Laboratorio"
+    }
+  ],
+  "estudios": [
+    {
+      "id": 1,
+      "codigo": "RX-TORAX",
+      "descripcion": "Radiografia de torax",
+      "fechaSolicitud": "2024-01-01",
+      "pacienteId": 1,
+      "medicoId": 1,
+      "prestadorId": 1
+    },
+    {
+      "id": 2,
+      "codigo": "ECO-ABD",
+      "descripcion": "Ecografia abdominal",
+      "fechaSolicitud": "2024-01-02",
+      "pacienteId": 2,
+      "medicoId": 2,
+      "prestadorId": 2
+    },
+    {
+      "id": 3,
+      "codigo": "TAC-CEREBRO",
+      "descripcion": "Tomografia de cerebro",
+      "fechaSolicitud": "2024-01-03",
+      "pacienteId": 3,
+      "medicoId": 3,
+      "prestadorId": 3
+    },
+    {
+      "id": 4,
+      "codigo": "RX-MANO",
+      "descripcion": "Radiografia de mano",
+      "fechaSolicitud": "2024-01-04",
+      "pacienteId": 4,
+      "medicoId": 4,
+      "prestadorId": 4
+    },
+    {
+      "id": 5,
+      "codigo": "ECO-TIROIDEA",
+      "descripcion": "Ecografia tiroidea",
+      "fechaSolicitud": "2024-01-05",
+      "pacienteId": 5,
+      "medicoId": 5,
+      "prestadorId": 5
+    },
+    {
+      "id": 6,
+      "codigo": "TAC-TORAX",
+      "descripcion": "Tomografia de t�rax",
+      "fechaSolicitud": "2024-01-06",
+      "pacienteId": 6,
+      "medicoId": 6,
+      "prestadorId": 6
+    },
+    {
+      "id": 7,
+      "codigo": "RX-PIERNA",
+      "descripcion": "Radiografia de pierna",
+      "fechaSolicitud": "2024-01-07",
+      "pacienteId": 7,
+      "medicoId": 7,
+      "prestadorId": 7
+    },
+    {
+      "id": 8,
+      "codigo": "ECO-MAMAS",
+      "descripcion": "Ecografia mamaria",
+      "fechaSolicitud": "2024-01-08",
+      "pacienteId": 8,
+      "medicoId": 8,
+      "prestadorId": 8
+    },
+    {
+      "id": 9,
+      "codigo": "TAC-ABD",
+      "descripcion": "Tomograia abdominal",
+      "fechaSolicitud": "2024-01-09",
+      "pacienteId": 9,
+      "medicoId": 9,
+      "prestadorId": 9
+    },
+    {
+      "id": 10,
+      "codigo": "RX-COLUMNA",
+      "descripcion": "Radiografia de columna",
+      "fechaSolicitud": "2024-01-10",
+      "pacienteId": 10,
+      "medicoId": 10,
+      "prestadorId": 10
+    },
+    {
+      "id": 11,
+      "codigo": "RX-RODILLA",
+      "descripcion": "Radiografia de rodilla",
+      "fechaSolicitud": "2024-01-11",
+      "pacienteId": 11,
+      "medicoId": 11,
+      "prestadorId": 11
+    },
+    {
+      "id": 12,
+      "codigo": "ECO-HIGADO",
+      "descripcion": "Ecografia hepatica",
+      "fechaSolicitud": "2024-01-12",
+      "pacienteId": 12,
+      "medicoId": 12,
+      "prestadorId": 12
+    },
+    {
+      "id": 13,
+      "codigo": "TAC-CUELLO",
+      "descripcion": "Tomografia de cuello",
+      "fechaSolicitud": "2024-01-13",
+      "pacienteId": 13,
+      "medicoId": 13,
+      "prestadorId": 13
+    },
+    {
+      "id": 14,
+      "codigo": "RX-TOBILLO",
+      "descripcion": "Radiografia de tobillo",
+      "fechaSolicitud": "2024-01-14",
+      "pacienteId": 14,
+      "medicoId": 14,
+      "prestadorId": 14
+    },
+    {
+      "id": 15,
+      "codigo": "ECO-RI�ONES",
+      "descripcion": "Ecografia renal",
+      "fechaSolicitud": "2024-01-15",
+      "pacienteId": 15,
+      "medicoId": 15,
+      "prestadorId": 15
+    },
+    {
+      "id": 16,
+      "codigo": "TAC-PELVIS",
+      "descripcion": "Tomografia de pelvis",
+      "fechaSolicitud": "2024-01-16",
+      "pacienteId": 16,
+      "medicoId": 16,
+      "prestadorId": 16
+    },
+    {
+      "id": 17,
+      "codigo": "ECO-OBST",
+      "descripcion": "Ecografia obstetrica",
+      "fechaSolicitud": "2024-01-17",
+      "pacienteId": 17,
+      "medicoId": 17,
+      "prestadorId": 17
+    },
+    {
+      "id": 18,
+      "codigo": "RX-CRANEO",
+      "descripcion": "Radiografia de craneo",
+      "fechaSolicitud": "2024-01-18",
+      "pacienteId": 18,
+      "medicoId": 18,
+      "prestadorId": 18
+    },
+    {
+      "id": 19,
+      "codigo": "TAC-ESPINA",
+      "descripcion": "Tomografia de columna",
+      "fechaSolicitud": "2024-01-19",
+      "pacienteId": 19,
+      "medicoId": 19,
+      "prestadorId": 19
+    },
+    {
+      "id": 20,
+      "codigo": "ECO-CARD",
+      "descripcion": "Ecocardiograma",
+      "fechaSolicitud": "2024-01-20",
+      "pacienteId": 20,
+      "medicoId": 20,
+      "prestadorId": 20
+    }
+  ]
+}
